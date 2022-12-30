@@ -1,0 +1,73 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section{
+    background-color: #f3f2ef;
+}
+
+.hero-text{
+    width: 500px;
+    text-align: justify;
+    font-size: 14px;
+    
+}
+.line{
+    height: 40px;
+    width: 4px;
+}
+
+.product-container{
+    /* height:260px; */
+    box-shadow:  0 1px 1px 4px #c4c4c44d;
+}
+  
+
+
+.product-container img{
+    height:200px;
+}
+
+/* .product-container:hover{
+    box-shadow:  0 1px 1px 4px #c4c4c44d;
+} */
+
+.offer-container{
+    background-image: url(../images/offer.png);
+    height: 670px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+ 
+    background-position:69% ;
+
+
+
+}
+
+.features{
+    height: 90px;
+    box-shadow:  0  5px 15px #c4c4c44d;
+    cursor: pointer;
+
+}
+.features img{
+    height: 40px;
+}
+
+.features:hover{
+    box-shadow:  0 1px 1px 4px #c4c4c44d;
+}
+
+.Different{
+    background-color: #f3f2ef;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.diference:hover{
+    box-shadow:  0  4px 10px #c4c4c44d;
+   
+}
